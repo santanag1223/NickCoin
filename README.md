@@ -1,2 +1,2 @@
 # NickCoin
-Discord Bot used to manage joke currency NickCoinTM
+A Discord bot created to manage a server currency amongst my friends and I
