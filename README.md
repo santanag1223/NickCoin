@@ -1,2 +1,2 @@
 # NickCoin
-A Discord bot created to manage a server currency amongst my friends and I
+A Discord bot I created to manage a server currency amongst my friends. Interfaced with a database from Mongo DB to contain user balances.
